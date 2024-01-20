@@ -1,0 +1,29 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+}
+
+.col-1{
+    margin: 50px;
+}
+
+.col-2{
+    margin: 50px;
+}
+
+.heading{
+    font-size: 45px;
+    width: 100px;
+    font-family: 'Inconsolata', monospace;  
+}
+
+.para{
+   font-size: smaller; 
+   padding-top: 50px;
+   width: 239px ;
+   line-height: 22px;
+}
